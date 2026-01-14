@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aws</groupId>
-	<artifactId>tas-service</artifactId>
+	<artifactId>s3-sqs-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tas-service</name>
 	<description>TAS Service to read S3 object</description>
